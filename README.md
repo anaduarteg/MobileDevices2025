@@ -1,6 +1,8 @@
 # Programacion de Dispositivos Moviles
 
-## Aplicacion para estacionamiento 'Easy Park'
+## 🚗 Easy Park
+
+Aplicación móvil para gestión de estacionamiento inteligente.
 
 ---
 > - 💻 Ana Duarte
